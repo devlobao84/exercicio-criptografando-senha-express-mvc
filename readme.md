@@ -5,18 +5,21 @@
     3- Após ocorrer o cadastro é necessário redirecionar para tela de login OK 
 
 ## Login
-    1- Ao prencher os dados de login é necessário verificar se o usuário existe no arquivo `JSON` dentro da pasta `static-database`
+    1- Ao prencher os dados de login é necessário verificar se o usuário existe no
+    arquivo `JSON` dentro da pasta `static-database`
 
 
 
 
-    2- Verificar a senha passada no login é igual a senha dentro do arquivo `JSON` na pasta `static-database`
+    2- Verificar a senha passada no login é igual a senha dentro do arquivo 
+    `JSON` na pasta `static-database`
     3- Redirecionar para área inicial
 
 
 
 ## Área logada
-    1- Criar uma tela que liste em uma lista de todos os usuários cadastrados que estará dentro do arquivo `JSON` na pasta `static-database`
+    1- Criar uma tela que liste em uma lista de todos os usuários cadastrados
+    que estará dentro do arquivo `JSON` na pasta `static-database`
 
 
 
